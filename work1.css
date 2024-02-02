@@ -1,0 +1,161 @@
+nav{
+    border: none;
+}
+#nav2{
+    border: 2px solid black;
+    
+    background-color: #96c7eb;
+}
+.main{
+    background-color: rgb(44, 17, 44);
+}
+section{
+    
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.box{
+    height: 540px;
+    width: 500px;
+    border: 2px solid #defcf9;
+    
+   
+    
+}
+#box:hover{
+    box-shadow: 10px 10px 10px burlywood;
+}
+
+#S1,#S2,#S3{
+    height: 400px;
+    width: 497px;
+   
+   
+}
+
+#S1{
+   background-image: url("https://cdn.olaelectric.com/sites/evdp/pages/home/s1x_scooty_140823_v5.webp");
+   background-size: cover;
+   
+}
+
+#s2,#s3,#s4{
+    height: 32px;
+    width: 498px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#S2{
+    background-image: url("https://media.wired.com/photos/5cf832279c2a7cd3975976ca/master/w_2000,c_limit/Transpo_XcelsiorChargeCharging_TA.jpg");
+    background-size: cover;
+}
+
+#S3{
+    background-image: url("https://vehq.com/wp-content/uploads/2019/10/electric-cars-reliable-featured.jpg");
+    background-size: cover;
+}
+#s2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: larger;
+    
+}
+
+#in1,#p1{
+    border: none;
+}
+#s52,#s53{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 32px;
+    width: 600px;
+
+}
+#s51{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 32px;
+    width: 500px;
+
+}
+
+
+#b11,#b12,#b3{
+    background-color: rgb(36, 155, 36);
+    border: none;
+    height: 30px;
+    width: 100px;
+    color: white;
+    border-radius: 5px;
+    
+
+}
+
+
+
+#b2{
+    background-color: rgb(117, 174, 198);
+    border: none;
+    height: 30px;
+    width: 100px;
+    color: black;
+    border-radius: 5px;
+}
+
+#cost1,#cost2{
+    height: 26px;
+    width: 100px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: larger;
+    background-color: white;
+}
+#cost3{
+    height: 26px;
+    width: 100px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    background-color: white;
+}
+
+article{
+    height: 50px;
+    width: 100%;
+    color: white;
+    
+    border: 30%;
+    font: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 80px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px black;
+
+
+}
+
+#img1{
+    display: grid;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+
